@@ -1,0 +1,140 @@
+{
+  "theme": {
+    "name": "英雄联盟 · 峡谷指尖小队 12英雄",
+    "identifier": "com.xindao.league-chibi-squad",
+    "author": "新岛",
+    "version": 2,
+    "platform": "macos",
+    "preview_style": "chibi-anime",
+    "preview_title": "英雄联盟 · 峡谷指尖小队",
+    "preview_subtitle": "十二位英雄，十二种动作。把召唤师峡谷带到指尖。",
+    "preview_footer": "12 英雄 / 可安装版"
+  },
+  "generation": {
+    "provider": "built-in image_gen",
+    "model": null,
+    "reused_existing_artwork": true
+  },
+  "artworks": {
+    "normal": {
+      "source": "source-art/normal.png",
+      "source_hotspot": [
+        108,
+        130
+      ],
+      "character_name": "阿狸",
+      "prompt": "Create ONE premium chibi-anime mouse cursor artwork for a League of Legends macOS theme. State NORMAL / ordinary pointer. Subject AHRI: recognisable black hair, two fox ears, golden eyes, whisker marks on cheeks, crimson-and-white outfit, lush pale fox tails. Joyful playful expression. She is physically riding and hugging the lower-right shaft of a bold magical turquoise arrow pointing northwest (upper left). Arrow tip must be the top-left-most point of the silhouette, unobstructed, with two straight clean edges converging to one precise tip; large clear arrowhead. Ahri forms about half of the meaningful silhouette, huge expressive head, compact little body, tails curled compactly behind her. Arrow and character feel designed together; not a portrait pasted by a cursor. Clean dark-navy thick contour, thin ivory outside rim for dark-background readability, bold flat cel shading, jewel teal + coral + warm gold highlights, polished collectible anime sticker quality, restrained details readable when shrunk to 48 pixels. Fully transparent background / actual alpha. Single isolated artwork centered on square 1024x1024 canvas, all anatomy and arrow within central 84%, at least 8% transparent margin on all four sides. No background, no floor, no glow haze, no text, no labels, no numbers, no red hotspot marks, no watermark, no panel or sheet. Keep arrow tip free of sparkles. Beautiful finished illustration.",
+      "review": "PASS"
+    },
+    "text": {
+      "source": "source-art/text.png",
+      "source_hotspot": [
+        351,
+        606
+      ],
+      "character_name": "拉克丝",
+      "prompt": "Create ONE NEW cursor artwork, TEXT ENTRY state, for the same League of Legends chibi-anime cursor collection. Reference image is STYLE ONLY: match its clean navy contours, narrow ivory rim, polished cel-shading, huge expressive eyes and jewel teal/gold palette; DO NOT reuse Ahri or her pose. New subject LUX (拉克丝): blonde hair, blue eyes, small blue-gold headband, blue-white-and-gold Demacian mage outfit. She leans diagonally out from the RIGHT side of a bright cyan I-BEAM made from her magic staff, gripping its upper shaft with both hands, smiling with concentration, legs swinging rightwards. Clear uppercase I-shaped text cursor fills the LEFT half: straight vertical luminous turquoise bar with simple horizontal caps top and bottom. Middle third of shaft and EXACT middle point fully visible, unobstructed by hands, face or costume, no orb at center. Staff looks unmistakably like an I-beam rather than a sword/cross. Character and staff physically interact and form a compact square silhouette, hero about half of visible area. Keep decoration restrained so I beam and face remain readable at 48px. Full transparent alpha background, one isolated square artwork, at least 8% clear margin each side. No panel, label, words, watermark, hotpoint cross, ground, background or stray sparkles.",
+      "review": "PASS"
+    },
+    "action": {
+      "source": "source-art/action.png",
+      "source_hotspot": [
+        165,
+        82
+      ],
+      "character_name": "金克丝",
+      "prompt": "Create ONE NEW League of Legends chibi-anime cursor artwork, ACTION / clickable link state. Attached Ahri artwork is STYLE ONLY: match navy outlines, narrow ivory edge, polished cel shading, big expressive eyes and saturated jewel palette. New character JINX 金克丝, recognizable bright blue twin braids, magenta eyes, mischievous toothy grin, black and purple punk crop top, magenta striped shorts, fingerless gloves, small blue cloud tattoo. Energetic forward lunge. Her OWN right hand is enlarged in foreground into the functional pointing-hand cursor: a single index finger points straight UP in the upper-left quadrant, remaining three fingers curled naturally and thumb visible. Clearly five-finger anatomy; other hand held back. Fingertip is the highest-left functional point, completely exposed, no burst/stars above it. Arm connects naturally to her body on lower-right; no detached stock hand. Face and braids occupy about half the art, braids curl compactly around silhouette, no big gun or floating props. Touching/clicking gesture instantly understandable at 48 pixels. Chibi not realistic, fully clothed cartoon. Single square isolated image, truly transparent alpha, generous clear margins at least 8% each side, no text, no labels, no marker cross, no panel, no floor, no background.",
+      "review": "PASS"
+    },
+    "forbidden": {
+      "source": "source-art/forbidden.png",
+      "source_hotspot": [
+        579,
+        819
+      ],
+      "character_name": "提莫",
+      "prompt": "Create ONE NEW League of Legends chibi cursor artwork, FORBIDDEN / unavailable state. Attached image supplies STYLE ONLY (navy contour, narrow ivory rim, beautiful clean cel shading); do NOT depict Ahri. TEEMO 提莫, small tan-and-cream furry yordle, green scout hat with red-lensed goggles and a small red feather, green scout tunic, fluffy cheeks. He is planted with feet wide behind a large coral-red prohibition ring, both small paws actively bracing its sides, cheeks puffed in an adorably stubborn 'stop' expression. Prohibition ring in foreground lower-center, one bold diagonal slash from top-left to bottom-right, completely clear unobstructed central crossing with visible solid coral pixel at exact middle. Teemo face peeks over ring, character occupies about half of meaningful silhouette. Make the red no-symbol strong at tiny cursor scale, keep mouth/eyes large, simple gold small buckles only; no text or tiny props. Same coherent jewel teal, coral and gold collection, dark-navy thick contour and thin ivory outside line. ONE centered square transparent PNG-style artwork with actual alpha, ample 8% transparent padding all sides. No other states, labels, hotpoint cross, card, background, ground, giant extra mushroom or watermark.",
+      "review": "PASS"
+    },
+    "busy": {
+      "source": "source-art/busy.png",
+      "source_hotspot": [
+        486,
+        820
+      ],
+      "character_name": "艾克",
+      "prompt": "Create ONE NEW League of Legends chibi cursor artwork, BUSY / WAIT state. Ahri reference is STYLE ONLY: clean dark-navy contour, narrow ivory outer rim, polished cel shading, compact cute heroic proportions. New subject EKKO 艾克, clearly a dark brown skinned young male hero, white upward mohawk, orange-red neck scarf, brown-and-teal Zaun streetwear, white face-paint mark. Excited concentrated expression. He is crouched on the UPPER-RIGHT of a prominent teal-and-gold circular clock, physically turning a small side winder with one hand and bracing the rim with the other. Clock has bold gold hands meeting at its exact center, simple clean dial WITHOUT numerals; one clear curved arrow wraps clockwise around clock perimeter to signal waiting. Clock center unobstructed and solid, located lower-left-center of square. Hero occupies half visible area, face recognizable, only one clock and two natural hands. Teal time-tech, warm golden metal, coral scarf, same collection palette. Highly readable at small size, no tiny machinery. One square high resolution artwork, actual transparent alpha background, all contents within canvas with 8% safe border. No Ahri ears/tails, no labels, digits, red cross, watermark, card, ground or background.",
+      "review": "PASS"
+    },
+    "open_hand": {
+      "source": "source-art/open_hand.png",
+      "source_hotspot": [
+        476,
+        849
+      ],
+      "character_name": "布里茨",
+      "prompt": "Create ONE NEW League of Legends chibi-anime cursor artwork, OPEN HAND / PAN state. Attached Ahri image is STYLE ONLY: match clean navy contours, thin ivory outer edge, premium crisp cel shading, cute compact proportions. Subject BLITZCRANK 布里茨, unmistakable round chunky BRASS ROBOT with barrel torso, small round head with two glowing cyan circular eyes, no human face, small steam pipes behind shoulders, mechanical joints. He reaches one massive robotic hand toward viewer: an OPEN upright palm with five rounded articulated mechanical digits (four upright fingers and thumb pointing out), palm facing front with a simple solid teal circular inset in the palm. Palm center is completely unobstructed and is the intended hotspot. Hand occupies left-lower half, robot friendly head and body peeking around upper-right, connected naturally by thick mechanical forearm. Other hand small and kept behind torso. Lean-forward pushing/panning pose, compact one-piece silhouette, not a portrait pasted by a hand. Brass/gold metal, cyan joints, dark navy outline with ivory rim; restrained simple panels, not gritty detailed realism. One centered square isolated artwork, true transparent alpha background, at least 8% clear margin all sides. No text, numbers, extra fingers, red cross, panel, background, ground, detached hand or watermark.",
+      "review": "PASS"
+    },
+    "resize_horizontal": {
+      "source": "source-art/resize_horizontal.png",
+      "source_hotspot": [
+        614,
+        852
+      ],
+      "character_name": "亚索",
+      "prompt": "Create ONE NEW League of Legends chibi-anime cursor artwork, HORIZONTAL RESIZE state. Attached Ahri artwork is STYLE ONLY, same navy line weight, narrow ivory rim, crisp cel shading and jewel teal/gold colors. New subject YASUO 亚索: dark tied-up high spiky ponytail, faint moustache/beard, stern cute determined eyes, signature blue scarf and asymmetrical blue samurai shoulder armor, simple dark trousers. He crouches low with knees apart and stretches both arms LEFT and RIGHT, pulling on a single STRAIGHT HORIZONTAL turquoise wind-blade shaped as a double-headed arrow. One sharp triangular arrowhead points exactly left, the other exactly right; shaft has two parallel straight edges, both ends at same y. Hands grip nearer the two ends, leaving the central third of the shaft unobstructed and solid. Arrow across LOWER third of silhouette; face above, body behind, scarf curves behind. The whole arrow reads as one unified horizontal resize axis even at 32px, not two separate floating arrows; no diagonal orientation, no sword covering center. Yasuo body about half meaningful silhouette and interacts strongly by pulling both ends. Energetic expressive compact design, restrained clean details. One isolated square artwork with genuinely transparent alpha background, at least 8% transparent margin around all edges. No text, labels, cross, watermark, background, floor, panel or excess sparkles.",
+      "review": "PASS"
+    },
+    "resize_vertical": {
+      "source": "source-art/resize_vertical.png",
+      "source_hotspot": [
+        427,
+        590
+      ],
+      "character_name": "娜美",
+      "prompt": "Create ONE NEW League of Legends chibi-anime cursor artwork, VERTICAL RESIZE. Attached image is STYLE ONLY: premium clean navy outlines, thin ivory outer edge, crisp cel shading, teal/coral/gold collection. New hero NAMI 娜美, recognisable cute aquatic female mermaid with turquoise skin, big amber eyes, orange-red flowing hair, golden fin-like headdress, teal fish tail with pale fins and tasteful gold upper-body armor. She spirals gracefully on the RIGHT side of a SINGLE STRAIGHT VERTICAL aqua magic shaft with triangular arrowheads pointing exactly UP and DOWN. Her two hands brace the shaft near its upper end, her tail curls rightwards and supports it near lower end. Center third of shaft stays clear, solid turquoise and fully visible. Both arrowheads align vertically at same x in the LEFT half; strong geometric direction silhouette, not a trident or crooked wave. Lift/climb pose, joyful focused expression, hero occupies half the design. Restrained wave-like gold cuffs ONLY at ends, no surrounding ocean. Small-size readability priority. Single isolated square artwork, true transparent alpha, ALL art in central 75% leaving minimum 12% TRANSPARENT padding on EVERY edge, full fins/hair/tips visible. No text, no red cross, no labels, no watermark, floor, card, background, stray bubbles or sparkles.",
+      "review": "PASS"
+    },
+    "crosshair": {
+      "source": "source-art/crosshair.png",
+      "source_hotspot": [
+        402,
+        622
+      ],
+      "character_name": "艾希",
+      "prompt": "Create ONE NEW League of Legends chibi-anime cursor for PRECISION / CROSSHAIR state. Attached Ahri image is STYLE reference ONLY: same crisp dark navy outline, thin warm-white rim, polished cel shading, expressive huge eyes, cyan/gold jewel palette. Character ASHE 艾希: pale blonde hair, blue eyes, royal-blue hood and blue-white ranger cape, gold accents, recognizable elegant icy archer. She crouches on RIGHT of a large cyan targeting reticle, one hand gripping its rim like her ice bow, other hand carefully drawing a short ice bowstring, focused determined cute face. Reticle LEFT half: thin circular ice rim, FOUR strong straight spokes aimed north south east west converging at one small solid gold diamond exactly at center. Make a clean crosshair with an exposed precise center, no fingers, face or clothing over center. Hero about half of meaningful silhouette. Character physically interacts with this ice bow/reticle, not sticker by stock cursor. No loose arrows crossing center. Single square transparent alpha image, isolated illustration, entire design fully inside central 80% with clear padding on all sides. No writing, numbers, labels, red hotspot marker, panels, shadow on ground, background or watermark.",
+      "review": "PASS"
+    },
+    "closed_hand": {
+      "source": "source-art/closed_hand.png",
+      "source_hotspot": [
+        484,
+        612
+      ],
+      "character_name": "蔚",
+      "prompt": "Create ONE NEW League of Legends chibi-anime mouse cursor for CLOSED HAND / GRABBING. Attached Ahri image is STYLE reference ONLY: same crisp dark navy contour, thin warm ivory outer rim, polished cel shading, expressive huge eyes, cyan/coral/gold accents. Character VI 蔚: adult champion as cute chibi, recognizable short swept pink hair with shaved side, blue eyes, brown leather harness, navy cropped jacket, and oversized brass hextech mechanical gauntlet with cyan glowing details. Dynamic forward leaning pulling pose, focused playful face on upper RIGHT; one gigantic CLOSED CLENCHED FIST fills lower LEFT foreground. Its knuckles and curled fingers unambiguously form a closed fist, thumb wrapped over fingers. Gold armor plates, navy seams and a simple cyan circular hextech core on the back of gauntlet. The mechanical fist IS the grabbing cursor symbol, physically attached to Vi. Fist center remains visually clean to serve as hotspot. Do not draw open palm or pointing finger. Strong compact readable silhouette. Single square transparent alpha image, all art inside central 80% leaving clear margin around all four sides. No text, letters, labels, hotspot dot, panels, ground shadow, background, watermark.",
+      "review": "PASS"
+    },
+    "resize_nw_se": {
+      "source": "source-art/resize_nw_se.png",
+      "source_hotspot": [
+        592,
+        711
+      ],
+      "character_name": "锐雯",
+      "prompt": "Create ONE NEW League of Legends chibi-anime mouse cursor for NW–SE DIAGONAL RESIZE. Attached Ahri image is STYLE reference ONLY: bold crisp dark navy outlines, thin ivory outer rim, beautiful smooth cel shading, high-end cute anime game mascot. Character RIVEN 锐雯: recognizably short messy WHITE hair, jade green eyes, small confident smile, green/brown armored adventurer outfit, white shoulder armor, oversized enchanted runic sword. FUNCTIONAL OBJECT: one clearly visible straight glowing mint-cyan sword shaft running exactly from UPPER LEFT (NW) to LOWER RIGHT (SE), capped with TWO symmetrical broad arrowhead blades pointing outward NW and SE. A clean bidirectional diagonal arrow at roughly 45 degrees. Continuous straight shaft through a small solid cyan diamond center, without hands obscuring center. Riven is perched riding on the UPPER RIGHT side of this diagonal sword, holding upper section, legs on right. Hero and sword form single integrated compact silhouette. The blade must have BOTH directional arrowheads, not normal sword handle, and its extreme tips are left/top and right/bottom. Strong readability even tiny. No horizontal or vertical arrows. Single square transparent alpha image, full art comfortably within central 80% with visible transparent margin on all four sides. No writing, labels, panels, hotspot markers, shadows on ground, background, or watermark.",
+      "review": "PASS"
+    },
+    "resize_ne_sw": {
+      "source": "source-art/resize_ne_sw.png",
+      "source_hotspot": [
+        669,
+        700
+      ],
+      "character_name": "锤石",
+      "prompt": "Create ONE NEW League of Legends chibi-anime mouse cursor for NE–SW DIAGONAL RESIZE. Attached Ahri image is STYLE reference ONLY: crisp deep navy outlines with thin warm ivory outer rim, polished smooth cel shading, cute vivid highly readable game character and functional cursor motif integrated in one compact silhouette. Character THRESH 锤石: recognizable spectral green face with oversized glowing green eyes and stylized skeletal grin, horned dark crown/hood, black teal warden armor, little chains, small green soul lantern hanging at hip. Cute mischievous not scary or gory. FUNCTIONAL OBJECT a perfectly straight cyan-green luminous chain-staff on a diagonal from LOWER LEFT southwest to UPPER RIGHT northeast with TWO large solid triangular arrowheads pointing outward at those ends. Its opposite tips are at bottom-left and top-right; not top-left/bottom-right. Continuous glowing central shaft with a small solid green diamond halfway. Hands must not cover this center hotspot. Thresh rides sitting on the UPPER LEFT side of this shaft, pulling one chain wrapped around its upper section. Character physical interaction with the bidirectional diagonal arrow. Keep shaft simple and arrowheads unmistakable, central diamond exposed. Entire illustration fully inside central 80% of a square with generous transparent margin on every side. Isolated true transparent alpha background. No writing, labels, panels, red dots, ground shadows, scenery, or watermark.",
+      "review": "PASS"
+    }
+  }
+}
