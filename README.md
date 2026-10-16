@@ -4,9 +4,25 @@
 
 从独立透明图稿、热点校准、Retina 输出，到 Mousecape 安装、系统读回和失败恢复，都整理成了一个可复用的 Skill。
 
+## 主题预览
+
+### 英雄联盟 · 峡谷指尖小队
+
 ![英雄联盟 · 峡谷指尖小队，12 位英雄对应 12 种光标动作](docs/preview.jpg)
 
 [▶ 观看 25 秒效果演示](https://github.com/19012713927zy-beep/theme-cursor/releases/download/v1.0.0/league-of-legends-demo.mp4) · [下载英雄联盟成品](https://github.com/19012713927zy-beep/theme-cursor/releases/download/v1.0.0/league-of-legends-macos.zip) · [下载 Skill](https://github.com/19012713927zy-beep/theme-cursor/releases/download/v1.0.0/theme-cursor-skill-v1.0.0.zip)
+
+### 瓦罗兰特 · 特工指尖小队
+
+![瓦罗兰特 · 特工指尖小队，12 位特工对应 12 种光标动作](docs/valorant-preview.jpg)
+
+### 三角洲行动 · 人气皮肤指尖小队
+
+![三角洲行动 · 人气皮肤指尖小队，包含蜂医原皮、威龙凌霄戍卫、蝶原皮和蛊的女医皮肤](docs/delta-force-preview.jpg)
+
+### 王者荣耀 · 人气女英雄皮肤小队
+
+![王者荣耀 · 人气女英雄皮肤小队，12 位女英雄的精选皮肤对应 12 种光标动作](docs/honor-of-kings-preview.jpg)
 
 ## 直接用英雄联盟成品
 
